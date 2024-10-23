@@ -52,9 +52,10 @@ Join our community chat to discuss development, ask questions, or just hang out:
 ## 📋 Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-* [Requirement 1]
-* [Requirement 2]
-* [Requirement 3]
+* React.js
+* TypeScript
+* TailWindcss
+  
 
 ## 🏗️ Installation
 
