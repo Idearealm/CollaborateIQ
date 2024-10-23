@@ -1,9 +1,16 @@
+
 # CollaborateIQ 🤝
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Sundhar22/CollaborateIQ/issues)
 [![Chat on Matrix](https://img.shields.io/badge/chat-on%20matrix-blue)](https://matrix.to/#/!SAxvPLncNIPgbwPItn:matrix.org?via=gitter.im&via=matrix.org)
+
+[Documentation](https://github.com/Sundhar22/CollaborateIQ/docs) | 
+[Matrix Chat](https://matrix.to/#/!SAxvPLncNIPgbwPItn:matrix.org?via=gitter.im&via=matrix.org) | 
+[Contributing](https://github.com/Sundhar22/CollaborateIQ/blob/main/CONTRIBUTING.md) | 
+[Report Bug](https://github.com/Sundhar22/CollaborateIQ/issues/new?template=bug_report.md) | 
+[Request Feature](https://github.com/Sundhar22/CollaborateIQ/issues/new?template=feature_request.md)
 
 CollaborateIQ is an innovative open-source platform that bridges the gap between problem-owners and solution-providers. Our platform automatically analyzes and groups similar challenges, enabling efficient problem-solving through community collaboration.
 
@@ -92,6 +99,18 @@ We love your input! We want to make contributing to CollaborateIQ as easy and tr
 
 Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
 
+
+## 📚 Documentation Links
+
+- Main Docs: https://sundhar22.github.io/CollaborateIQ/
+- API Reference: https://sundhar22.github.io/CollaborateIQ/api/
+- Contributing Guide: https://github.com/Sundhar22/CollaborateIQ/blob/main/CONTRIBUTING.md
+- GitHub Repository: https://github.com/Sundhar22/CollaborateIQ
+- Matrix Chat: https://matrix.to/#/!SAxvPLncNIPgbwPItn:matrix.org?via=gitter.im&via=matrix.org
+- Issue Tracker: https://github.com/Sundhar22/CollaborateIQ/issues
+
+
+
 ## 🗺️ Roadmap
 
 - [x] Project setup
@@ -117,13 +136,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by platforms like Stack Overflow, Reddit, and Quora
 - Special thanks to the open-source community
 
-## 📫 Contact
+## 📫 Contact & Support
 
-There are several ways to get in touch and get involved:
-- Join our [Matrix Chat Room](https://matrix.to/#/!SAxvPLncNIPgbwPItn:matrix.org?via=gitter.im&via=matrix.org)
-- Open an issue
-- Create a pull request
-- Contact us at [email/contact information]
+- Issues & Features: [GitHub Issues](https://github.com/Sundhar22/CollaborateIQ/issues)
+- Community Chat: [Matrix Room](https://matrix.to/#/!SAxvPLncNIPgbwPItn:matrix.org?via=gitter.im&via=matrix.org)
+- Documentation: [Project Docs](https://sundhar22.github.io/CollaborateIQ/)
+- Contributing: [Contributing Guide](https://github.com/Sundhar22/CollaborateIQ/blob/main/CONTRIBUTING.md)
 
 ## 🔮 Project Status
 
