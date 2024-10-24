@@ -103,8 +103,8 @@ Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
 
 ## 📚 Documentation Links
 
-- Main Docs: https://sundhar22.github.io/CollaborateIQ/
-- API Reference: https://sundhar22.github.io/CollaborateIQ/api/
+- Main Docs: https://github.com/Sundhar22/CollaborateIQ/tree/main/docs
+- API Reference: https://github.com/Sundhar22/CollaborateIQ/tree/main/docs/api
 - Contributing Guide: https://github.com/Sundhar22/CollaborateIQ/blob/main/CONTRIBUTING.md
 - GitHub Repository: https://github.com/Sundhar22/CollaborateIQ
 - Matrix Chat: https://matrix.to/#/!SAxvPLncNIPgbwPItn:matrix.org?via=gitter.im&via=matrix.org
