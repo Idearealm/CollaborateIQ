@@ -72,7 +72,7 @@ cd CollaborateIQ
 
 3. Install dependencies
 ```bash
-# Add installation commands here
+npm install
 ```
 
 4. Configure environment variables
@@ -82,7 +82,8 @@ cd CollaborateIQ
 
 5. Start the development server
 ```bash
-# Add startup commands here
+npm run dev
+
 ```
 
 ## 🎯 Usage
