@@ -52,7 +52,7 @@ Join our community chat to discuss development, ask questions, or just hang out:
 ## 📋 Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-* Next.js
+* React.js
 * TypeScript
 * TailWindcss
 * Eslint
