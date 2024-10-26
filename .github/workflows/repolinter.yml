@@ -17,5 +17,7 @@ jobs:
           node-version: '18.19.1'
       - name: Install Repolinter
         run: npm install -g repolinter
+      - name: Install linguist licensee
+        run: npm install -g linguist licensee
       - name: Run Repolinter
         run: repolinter
