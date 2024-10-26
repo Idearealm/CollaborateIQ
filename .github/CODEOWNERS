@@ -1,0 +1,21 @@
+# Global Code Owners (Project Lead: Mohanasundharam, Core Maintainer: Felix)
+* @Sundhar22 @joefelx
+
+# Documentation & Community Moderator (John)
+docs/ @johnvimalasir001
+README.md @johnvimalasir001
+CONTRIBUTING.md @johnvimalasir001
+CODE_OF_CONDUCT.md @johnvimalasir001
+
+# Issue Triager & Testing Coordinator (Karim)
+tests/unit/ @Karimsuhail
+tests/integration/ @Karimsuhail
+tests/e2e/ @Karimsuhail
+
+# Security & Release Manager (Kishore)
+src/app/auth/ @kishore-s-n
+src/services/ @kishore-s-n
+src/lib/ @kishore-s-n
+.env.example @kishore-s-n
+package.json @kishore-s-n
+CHANGELOG.md @kishore-s-n
