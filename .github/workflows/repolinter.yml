@@ -1,0 +1,14 @@
+name: Repolinter
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  repolinter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install -g repolinter
+      - run: repolinter --config .repolinter.json
