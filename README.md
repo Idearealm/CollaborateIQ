@@ -12,7 +12,7 @@
 [Report Bug](https://github.com/Sundhar22/CollaborateIQ/issues/new?template=bug_report.md) | 
 [Request Feature](https://github.com/Sundhar22/CollaborateIQ/issues/new?template=feature_request.md)
 
-CollaborateIQ is an innovative open-source platform that bridges the gap between problem-owners and solution-providers. Our platform automatically analyzes and groups similar challenges, enabling efficient problem-solving through community collaboration.
+CollaborateIQ is an innovative open-source platform that bridges the gap between problem-owners and solution-providers. Our platform automatically analyzes and groups similar challenges, enabling efficient problem-solving through community collaboration, we are also trying to implement many ways to provide the solution for the problem.
 
 ## 💬 Community
 
