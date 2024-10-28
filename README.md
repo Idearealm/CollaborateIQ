@@ -153,6 +153,10 @@ CollaborateIQ is licensed under the MIT License. See [LICENSE](LICENSE) for deta
 ## 👥 **Team**
 
 - **[Sundhar22](https://github.com/Sundhar22)** - Project Lead
+- **[joefelx](https://github.com/joefelx)** - Core Maintainer
+- **[kishore-s-n](https://github.com/kishore-s-n)** - Security & Release Manager
+- **[johnvimalasir001](https://github.com/johnvimalasir001)** - Documentation & Community Moderator
+- **[Karimsuhail](https://github.com/Karimsuhail)** - Issue Traiger & Tester
 
 ---
 
